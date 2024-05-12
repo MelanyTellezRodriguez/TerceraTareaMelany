@@ -1,0 +1,7 @@
+C:\Users\melany Tellez\OneDrive\Escritorio\TerceraTareaMelany\bin\Debug\TerceraTareaMelany.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\TerceraTareaMelany\bin\Debug\TerceraTareaMelany.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\TerceraTareaMelany\bin\Debug\TerceraTareaMelany.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\TerceraTareaMelany\obj\Debug\TerceraTareaMelany.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\TerceraTareaMelany\obj\Debug\TerceraTareaMelany.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\TerceraTareaMelany\obj\Debug\TerceraTareaMelany.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\TerceraTareaMelany\obj\Debug\TerceraTareaMelany.pdb

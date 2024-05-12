@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerceraTareaMelany", "TerceraTareaMelany.csproj", "{17CDEE7F-7D5D-4EBF-8433-69CE4107604D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17CDEE7F-7D5D-4EBF-8433-69CE4107604D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CDEE7F-7D5D-4EBF-8433-69CE4107604D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CDEE7F-7D5D-4EBF-8433-69CE4107604D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CDEE7F-7D5D-4EBF-8433-69CE4107604D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC63A27A-E837-4070-BB98-CC74AB633D8C}
+	EndGlobalSection
+EndGlobal
